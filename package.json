@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "hiking weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdsel/weather.git"
+  },
+  "author": "joe sellers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdsel/weather/issues"
+  },
+  "homepage": "https://github.com/jdsel/weather#readme"
+}
